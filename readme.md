@@ -25,6 +25,8 @@ Once the repository is cloned, go into it and install dependencies:
 - via yarn : `yarn`
 - via npm : `npm i`
 
+Follow the instructions from the Todos app workshop.
+
 <br>
 <br>
 Happy coding!

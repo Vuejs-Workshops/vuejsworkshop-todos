@@ -20,10 +20,15 @@ There are 3 branches:
 
 ## How to start it
 
-Once the repository is cloned, go into it and install dependencies:
+Once the repository is cloned, go into it and install dependencies using npm or yarn.
 
-- via yarn : `yarn`
-- via npm : `npm i`
+- using yarn:
+    - `yarn` 
+    - `yarn serve` 
+
+- using npm:
+    - `npm i`
+    - `npm run serve`
 
 Follow the instructions from the Todos app workshop.
 
